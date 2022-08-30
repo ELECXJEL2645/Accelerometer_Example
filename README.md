@@ -2,7 +2,9 @@ Accelerometer Example
 =====================
 
 Function:               Tests the various functions available within the MMA8452 accelerometer library.
-Circuit Schematic No.:  
+                        Note: A push button with a 10K ohm pull down resister is attached to 3.3V. This in turn is 
+                        monitored by pin PH_1 and is defined as 'button_a'.
+Circuit Schematic No.:  15  : https://github.com/ELECXJEL2645/Circuit_Schematics
 Required Libraries:     N5110   : https://github.com/ELECXJEL2645/N5110
                         MMA8452 : https://github.com/ELECXJEL2645/MMA8452
 
