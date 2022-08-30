@@ -3,7 +3,7 @@ Accelerometer Example
 
 Function:               Tests the various functions available within the MMA8452 accelerometer library.
 Circuit Schematic No.:  
-Required Libraries:     N5110   :
+Required Libraries:     N5110   : https://github.com/ELECXJEL2645/N5110
                         MMA8452 : https://github.com/ELECXJEL2645/MMA8452
 
 Authored by:            Andrew Knowles
